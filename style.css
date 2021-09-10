@@ -9,7 +9,8 @@
             sans-serif;
             font-size: 16px;
             font-weight:normal;
-            line-height: 1.6em
+            line-height: 1.6em;
+            border:0px;
 }
 
 #email{
@@ -26,6 +27,12 @@
 
 .flex{
         display: flex;
+        align-items: baseline;
+        width: 100px;
+         padding: 5px 20px 5px 20px;
+     margin:0px 20px 0px 20px;
+     margin-top: 20px;
+        
       
        
        
